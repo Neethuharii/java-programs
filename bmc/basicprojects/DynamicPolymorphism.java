@@ -1,4 +1,4 @@
-package com.bmc.basicprojects;
+package com.basicprojects;
 
 class Vehicle{
 	public void move() {
