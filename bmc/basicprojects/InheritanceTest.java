@@ -1,4 +1,4 @@
-package com.bmc.basicprojects;
+package com.basicprojects;
 
 class Animal{
 	public void eat() {
