@@ -1,4 +1,4 @@
-package com.bmc.basicprojects;
+package com.basicprojects;
 
 public class Pattern1 {
 
