@@ -1,4 +1,4 @@
-package com.bmc.codingpractice;
+package com.codingpractice;
 
 class Mobile{
 	private Game game;
