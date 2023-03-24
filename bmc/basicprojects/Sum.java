@@ -1,4 +1,4 @@
-package com.basicprojects;
+package com.basicproject;
 
 public class Sum {
 
