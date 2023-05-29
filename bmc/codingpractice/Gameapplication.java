@@ -33,7 +33,7 @@ class CandySmash extends Game{
 }
 class Numpuz extends Game{
 	public void playGame() {
-		System.out.println("click bottle,pour and win");
+		System.out.println("Click bottle,pour and win");
 	}
 }
 public class Gameapplication {
